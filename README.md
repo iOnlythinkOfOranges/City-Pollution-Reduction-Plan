@@ -1,6 +1,6 @@
 # City-Pollution-Reduction
 
-## About the project
+## About the project 📝
 This is a simplex minimizer program. It loads the mitigation projects and pollutants CSV files. It solves for the optimal cost and number of project units based on the selected projects. It follows this algorithm:
 * Set up the initial tableau
 * Transpose
@@ -8,16 +8,16 @@ This is a simplex minimizer program. It loads the mitigation projects and pollut
 * Solve using the standard simplex method
 * Get the optimal solution from the bottom row of the final simplex tableau
 
-### Built with
+### Built with 🏗️
 * Python
 * NumPy
 * Pandas
 * Streamlit
   
-## Prerequisites
+## Prerequisites 🎟️
 This program has no prerequisites, as it is a web app.
 
-## How to use
+## How to use ❓
 * Click this link
 * Select projects
 * Set max iterations and upper bound limit
@@ -25,7 +25,7 @@ This program has no prerequisites, as it is a web app.
 * Scroll down to see the result and iterations
 * Select or input a number to see the tableau and basic solution of that iteration
 
-## Functionalities
+## Functionalities ⚙️
 * Dark mode
 * Table of selectable projects
 * The user can set max iterations and upper bound limit
