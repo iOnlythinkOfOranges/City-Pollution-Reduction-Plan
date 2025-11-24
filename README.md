@@ -9,10 +9,10 @@ This is a simplex minimizer program. It loads the mitigation projects and pollut
 * Get the optimal solution from the bottom row of the final simplex tableau
 
 ### Built with 🏗️
-* [![Python][Python.org]][Python-url]
-* [![NumPy][NumPy.org]][NumPy-url]
-* [![Pandas][Pandas.pydata.org]][Pandas-url]
-* [![Streamlit][Streamlit.io]][Streamlit-url]
+* [![Python][Python.org]][https://www.python.org/]
+* [![NumPy][NumPy.org]][https://numpy.org/]
+* [![Pandas][Pandas.pydata.org]][https://pandas.pydata.org/]
+* [![Streamlit][Streamlit.io]][https://streamlit.io/]
   
 ## Prerequisites 🎟️
 This program has no prerequisites, as it is a web app.
