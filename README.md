@@ -14,8 +14,10 @@ This is a simplex minimizer program. It loads the mitigation projects and pollut
 * [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 * [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
+
 ## Prerequisites 🎟️
 This program has no prerequisites, as it is a web app.
+
 
 ## How to use ❓
 * Click this [link](https://www.youtube.com/watch?v=zpCLWA9l0LA)
@@ -24,6 +26,7 @@ This program has no prerequisites, as it is a web app.
 * Click solve
 * Scroll down to see the result and iterations
 * Select or input a number to see the tableau and basic solution of that iteration
+
 
 ## Functionalities ⚙️
 * Dark mode
