@@ -18,7 +18,7 @@ This is a simplex minimizer program. It loads the mitigation projects and pollut
 This program has no prerequisites, as it is a web app.
 
 ## How to use ❓
-* Click this link
+* Click this [link](https://www.youtube.com/watch?v=zpCLWA9l0LA)
 * Select projects
 * Set max iterations and upper bound limit
 * Click solve
