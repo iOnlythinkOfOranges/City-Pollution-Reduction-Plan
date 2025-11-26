@@ -31,7 +31,7 @@ No prerequisite for using the webapp.
    streamlit run main.py
 
 ## ❓ How to use
-* Click this [link](https://city-pollution-reduction-plan-o2lskdvoxgetpijruxjo9h.streamlit.app/)
+* Click this [link](https://city-pollution-reduction-plan.streamlit.app/)
 * Select projects
 * Set max iterations and upper bound limit
 * Click solve
