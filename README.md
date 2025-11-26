@@ -15,9 +15,19 @@ This is a simplex minimizer program. It loads the mitigation projects and pollut
 * [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 
-## 🎟️ Prerequisites 
-This program has no prerequisites, as it is a web app.
+## 🎟️ Prerequisite
+No prerequisite for using the webapp.
 
+**To run locally**
+1. Download zip
+2. Extract
+3. Change directory to the project folder
+4. Install dependencies
+   ```bash
+   pip install -r requirements.txt
+5. Run Streamlit
+   ```bash
+   streamlit run main.py
 
 ## ❓ How to use
 * Click this [link](https://www.youtube.com/watch?v=zpCLWA9l0LA)
@@ -25,11 +35,12 @@ This program has no prerequisites, as it is a web app.
 * Set max iterations and upper bound limit
 * Click solve
 * Scroll down to see the result and iterations
-* Select or input a number to see the tableau and basic solution of that iteration
+* Select iteration 
 
 
 ## ⚙️ Functionalities 
 * Dark mode
-* Table of selectable projects
-* The user can set the max iterations and the upper bound limit
-* Shows the result table, tableau, and basic solution for every iteration
+* Search and sort function for projects
+* Downloadable tables
+* Control over max iterations and the upper bound limit
+* Detailed view of tables
