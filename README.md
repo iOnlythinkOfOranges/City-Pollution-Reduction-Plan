@@ -4,8 +4,8 @@
 This is a simplex minimizer program. It loads the mitigation projects and pollutants CSV files, then optimizes the cost and number of project units based on the selected projects. It follows this algorithm:
 * Get objective function and constraint matrix
 * Transpose the matrix
-* Set up the initial tableau
 * Form the dual problem
+* Set up the initial tableau
 * Solve using the standard simplex method
 * Get the optimal solution from the bottom row of the final simplex tableau
 
